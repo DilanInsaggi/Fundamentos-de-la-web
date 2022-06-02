@@ -34,3 +34,23 @@ ul y li
 Ul para mi vendria siendo el padre de Li, ya que Ul va primero.
 Ul(Lista)
 lI(Items)
+---------------------------------------------------------------------------------------
+<!--Listas ordenadas-->
+Esta viene a ser mas ordenada porque sigue el orden de numeros 
+---------------------------------------------------------------------------------------
+<!--Tablas-->
+Da el encabezado Y datos regulares 
+---------------------------------------------------------------------------------------
+<!--imagenes-->
+src = fuente (la ruta del archivo de imagen)
+alt = alternativa
+----------------------------------------------------------------------------------
+<!--videos-->
+src = fuente (la ruta del archivo de imagen)
+controls = es para mostrar los controles de video (como boton de repro/pausa,etc)
+autoplay = reproducir enseguida cuando el video este listo (automaticamente)
+loop = para hacer un buqle, que el video comienze denuevo cada vez que se termine 
+muted = especifica que la salida de audio del video debe silenciarse
+----------------------------------------------------------------------------------
+<!--Quiz-Elemental-->
+esto fue como una mini encuesta para ver si aprendimos lo de la clase de hoy 
