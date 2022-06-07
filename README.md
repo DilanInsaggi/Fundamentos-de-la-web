@@ -12,6 +12,7 @@ respuesta: la respuestra es la informacion que nos da la internet es decir por e
 
 #
 //<!--Encabezados.html-->
+<a href ="Elementos de texto/encabezado.html">Encabezado</a>
 El encabezado es lo primero que se ve en una pagina por ejmplo el Titulo 
 ----------------------------------------------------------------------------------
 <!--Parrafos.html-->
@@ -54,3 +55,9 @@ muted = especifica que la salida de audio del video debe silenciarse
 ----------------------------------------------------------------------------------
 <!--Quiz-Elemental-->
 esto fue como una mini encuesta para ver si aprendimos lo de la clase de hoy 
+----------------------------------------------------------------------------------
+<!--indertar-->
+aprendimos a ordenar los codigos para poder estar bien ordenados 
+----------------------------------------------------------------------------------
+<!--formulario-->
+aprendimos a crear un formulario con todos sus requisitos y sus cosas 
