@@ -6,10 +6,10 @@ text-decoration: none;
 
 button{
     
-    box-shadow: 5px 5px black;
+    box-shadow: 5px 5px rgb(0, 0, 0);
     color:rgb(255, 255, 255);
     background-color: rgb(0, 153, 255);
-    border: 3px solid black;
+    border: 3px solid rgb(255, 255, 255);
     width: 150px;
     height: 30px;
     margin: 20px;
@@ -21,16 +21,33 @@ ul {
     display: flex;
     align-items: flex-end;
     justify-content: flex-end; 
+    
 }
 
 li {
     display: inline;
     margin: 10px 10px 10px 10px;
+    
 }
 
 .main{
 
-margin-bottom: -90px;
+    background-color: black;
+    margin-bottom: -90px;
+color: white;
+
+
+}
+
+a{
+
+    color: white;
+
+}
+
+.nav{
+
+    border-radius: linear-gradient(#ff0000 0%, #ff0000 100%) 3px; 
 
 }
 
