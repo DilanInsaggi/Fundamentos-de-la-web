@@ -1,0 +1,44 @@
+*{
+font-size: 30px;
+    font-family: cursive;
+    margin-top: 50px;
+}
+
+
+.container{
+    width: 800px;
+    background-color: silver;
+    margin: 0px auto;
+    height: 450px;
+    padding: 130px;
+}
+.top-nav {
+    width: 1000px;
+    background-color: rgb(63, 200, 224);
+    margin-left:  -130px;
+    margin-bottom: -600px;
+    margin-top: -150px;
+    height: 120px;
+    padding: 30px;
+}
+
+
+
+p{
+    font-size: 20px;
+}
+
+#parrafo{
+
+margin-top: -65px;
+
+}
+
+
+
+
+.row {
+   display: flex;
+}
+
+
